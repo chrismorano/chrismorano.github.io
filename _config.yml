@@ -2,17 +2,15 @@ name:               "Data Dynamics"
 description:        "A blog for Chris Morano - data scientist, pianist, curious explorer"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "Chris Morano"
+email:              "chrismorano@hotmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
+email:              "chrismorano@hotmail.com"
+github:             "chrismorano"
 youtube:            "UCYzuXMj_hEV_fk_ZgnYCQkQ"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+linkedin:           "dr-chris-morano"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   ""
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
