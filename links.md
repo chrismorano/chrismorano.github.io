@@ -11,6 +11,7 @@ permalink: /links/
 <h3 style="LINE-HEIGHT:5px;">Music and Data Science Links</h3>
 <h5 style="color:#2676FF; LINE-HEIGHT:5px;">_______________________________________________________________________</h5>
 
+<br style="LINE-HEIGHT:-5px">
 - [AMI: Artists and Machine Intelligence](https://ami.withgoogle.com/): a very interesting initiative at Google.
 <br>
 <br>
