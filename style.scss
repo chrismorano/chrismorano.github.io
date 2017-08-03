@@ -98,7 +98,6 @@ dd {
 }
 
 ul {
-    text-align: center; 
     display: inline;
     list-style: inside circle;
     padding-left: 0;
@@ -239,7 +238,7 @@ pre code {
 }
 
 .fa {
-    margin-left: -1vw; // -2
+    margin-left: -1.1vw; // -2
     font-size: 2.5em;
     margin-right: 10vw; // 8
     @media (min-width: 38em) {
