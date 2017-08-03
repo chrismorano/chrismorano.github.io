@@ -1,5 +1,6 @@
 name:               "Data Dynamics"
-description:        "A blog by Chris Morano -      data scientist, pianist,          curious explorer"
+description1:       "A blog by Chris Morano:" 
+description2:       "data scientist, classical pianist, curious explorer"
 
 url:                ""
 author:             "Chris Morano"
