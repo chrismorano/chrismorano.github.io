@@ -275,7 +275,7 @@ tbody tr:nth-child(odd) th {
 
 .top {
     position: fixed;
-    background: #013BC9;
+    background: #2676FF;
     height: 3px;
     width: 100%;
     top: 0;
@@ -293,13 +293,13 @@ tbody tr:nth-child(odd) th {
         padding-left: 9px;
         padding-right: 9px;
         text-align: center;
-        border: 2px #013BC9 solid;
-        color: #013BC9;
+        border: 2px #2676FF solid;
+        color: #2676FF;
         &:hover,
         &:focus {
             color: #fff;
             border-color: #fff;
-            background: #013BC9;
+            background: #2676FF;
         }
     }
 }
@@ -319,7 +319,7 @@ tbody tr:nth-child(odd) th {
     }
     h2 {
         text-align: center;
-        color: #013BC9;
+        color: #2676FF;
     }
     h3 {
         height: auto;
@@ -410,10 +410,10 @@ tbody tr:nth-child(odd) th {
         }
         span {
             font-weight: 800;
-            color: #013BC9;
+            color: #2676FF;
             &:hover,
             &:focus {
-                color: #013BC9;
+                color: #2676FF;
                 text-decoration: none;
             }
         }
