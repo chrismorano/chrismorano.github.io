@@ -3,13 +3,14 @@ title: Data Dynamics' Links
 permalink: /links/
 ---
 
-<h3 style="color:#2676FF; LINE-HEIGHT:15px;">Other Cool Data Science Blogs</h3>
-_______________________________________________________________________
+<h3>Other Cool Data Science Blogs</h3>
+<h5 style="color:#2676FF; LINE-HEIGHT:5px;">_______________________________________________________________________</h5>
+
 - [David Lang's Blog](https://laingdk.github.io/): a fellow graduate from UBC's MDS program.
 <br>
+<h3>Music and Data Science Links</h3>
+<h5 style="color:#2676FF; LINE-HEIGHT:5px;">_______________________________________________________________________</h5>
 
-<h3 style="color:#2676FF; LINE-HEIGHT:15px;">Music and Data Science Links</h3>
-_______________________________________________________________________
 - [AMI: Artists and Machine Intelligence](https://ami.withgoogle.com/): a very interesting initiative at Google.
 <br>
 <br>
