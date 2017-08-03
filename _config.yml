@@ -23,10 +23,12 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
+  - name:           "Blog"
+    href:           ""
+  - name:           "Links"
+    href:           "/links"
+  - name:           "About Chris"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
 
 sass:
   style:            :compressed
