@@ -314,7 +314,7 @@ tbody tr:nth-child(odd) th {
         width: 20%;
         border-radius: 50%;
         display: block;
-        margin: 1rem 1rem 1rem;
+        margin: 1rem 1rem 15px;
         display: inline;
     }
     h1 {
@@ -341,7 +341,7 @@ tbody tr:nth-child(odd) th {
         color: #BDBDBD;
     }
     .social {
-        margin-left: 25vw;
+        text-align: center; //margin-left: 25vw;
         height: auto;
         width: 100%;
     }
