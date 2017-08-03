@@ -12,8 +12,8 @@ linkedin:           "dr-chris-morano"
 
 disqus_shortname:   ""
 
-old_background:     "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
-background:         "https://github.com/chrismorano/chrismorano.github.io/blob/master/assets/img/ethos-fuzziest.jpg"
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+new_background:     "https://github.com/chrismorano/chrismorano.github.io/blob/master/assets/img/ethos-fuzziest.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
