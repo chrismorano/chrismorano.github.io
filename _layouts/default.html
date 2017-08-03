@@ -6,10 +6,10 @@
     <div class="top"></div>
     <div class="profile" style="background-image: url({{ site.background }});">
         <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=240" class="img-circle" />
-        <h1 href="https://chrismorano.github.io" style="cursor: pointer; LINE-HEIGHT:5px;">{{ site.name }}</h1>
-        <br>
-        <p><h3>{{ site.description1 }}</h3></p>
-        <p>{{ site.description2 }}</p>
+        <h1 href="https://chrismorano.github.io" style="cursor: pointer;">{{ site.name }}</h1>
+        <br style="line-height:5px">
+        <h3>{{ site.description1 }}</h3>
+        <h5>{{ site.description2 }}</h5>
         <ul class="social">
             {% if site.github %}
             <a type="button" href="http://github.com/{{ site.github }}">
