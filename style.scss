@@ -375,7 +375,8 @@ tbody tr:nth-child(odd) th {
         .social {
             position: absolute;
             bottom: 0;
-            margin-left: 2vw;
+            test-align: center;
+            //margin-left: 2vw;
             a {
                 padding: 0;
                 margin-left: 0;
