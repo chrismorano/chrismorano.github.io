@@ -5,7 +5,7 @@ permalink: /links/
 
 <h3 style="LINE-HEIGHT:5px;">Other Cool Data Science Blogs</h3>
 <div style="border: thin solid #2676FF; width: 75%;"></div>
-- [David Lang's Blog](https://laingdk.github.io/): a fellow graduate from UBC's MDS program.
+- [David Laing's Blog](https://laingdk.github.io/): a fellow graduate from UBC's MDS program.
 <br>
 <br>
 <h3 style="LINE-HEIGHT:5px;">Music and Data Science Links</h3>
