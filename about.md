@@ -16,5 +16,4 @@ I would also love to hear from you if you are simply like-minded and want to rea
 >The original template for this website, called ['ink'](https://github.com/thinker3197/ink), was developed by [@thinker3197](https://github.com/thinker3197).
 
 
-
-
+copyright © 2017 Chris Morano
